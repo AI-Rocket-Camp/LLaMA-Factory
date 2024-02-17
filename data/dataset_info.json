@@ -366,5 +366,11 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "guanaco-llama2-1k": {
+    "hf_hub_url": "mlabonne/guanaco-llama2-1k",
+    "columns": {
+      "prompt": "text"
+    }
   }
 }
