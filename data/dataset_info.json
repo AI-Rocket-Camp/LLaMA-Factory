@@ -372,5 +372,13 @@
     "columns": {
       "prompt": "text"
     }
+  },
+  "chatml_dpo_pairs": {
+    "hf_hub_url": "hongce-tech/chatml_dpo_pairs",
+    "columns": {
+      "prompt": "instruction",
+      "query":"input",
+      "response":"output"
+    }
   }
 }
